@@ -1,0 +1,2 @@
+아래 링크를 참조하여 visual studio 2022 설치하고 c/c++개발이 가능해야 함
+https://while1.tistory.com/95
